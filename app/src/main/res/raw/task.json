@@ -1,0 +1,2200 @@
+{
+  "status_code": 200,
+  "header": "Success",
+  "grades": [
+    {
+      "curriculum": "Indian",
+      "token": "970001",
+      "input_data": [
+        {
+          "field_input_token": "111001",
+          "field_input_name": "Nursery",
+          "schooling_type": "no",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111001",
+          "grade_type_id": "1"
+        },
+        {
+          "field_input_token": "111002",
+          "field_input_name": "KG1/LKG",
+          "schooling_type": "no",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111002",
+          "grade_type_id": "2"
+        },
+        {
+          "field_input_token": "111003",
+          "field_input_name": "KG2/UKG",
+          "schooling_type": "no",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111003",
+          "grade_type_id": "2"
+        },
+        {
+          "field_input_token": "111004",
+          "field_input_name": "Grade 1",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111004",
+          "grade_type_id": "3"
+        },
+        {
+          "field_input_token": "111005",
+          "field_input_name": "Grade 2",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111005",
+          "grade_type_id": "3"
+        },
+        {
+          "field_input_token": "111006",
+          "field_input_name": "Grade 3",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111006",
+          "grade_type_id": "3"
+        },
+        {
+          "field_input_token": "111007",
+          "field_input_name": "Grade 4",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111007",
+          "grade_type_id": "3"
+        },
+        {
+          "field_input_token": "111008",
+          "field_input_name": "Grade 5",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111008",
+          "grade_type_id": "3"
+        },
+        {
+          "field_input_token": "111009",
+          "field_input_name": "Grade 6",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111009",
+          "grade_type_id": "4"
+        },
+        {
+          "field_input_token": "111010",
+          "field_input_name": "Grade 7",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111010",
+          "grade_type_id": "4"
+        },
+        {
+          "field_input_token": "111011",
+          "field_input_name": "Grade 8",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111011",
+          "grade_type_id": "4"
+        },
+        {
+          "field_input_token": "111012",
+          "field_input_name": "Grade 9",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111012",
+          "grade_type_id": "5"
+        },
+        {
+          "field_input_token": "111013",
+          "field_input_name": "Grade 10",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111013",
+          "grade_type_id": "5"
+        },
+        {
+          "field_input_token": "111014",
+          "field_input_name": "Grade 11",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111014",
+          "grade_type_id": "5"
+        },
+        {
+          "field_input_token": "111015",
+          "field_input_name": "Grade 12",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111015",
+          "grade_type_id": "5"
+        }
+      ]
+    },
+    {
+      "curriculum": "British",
+      "token": "970002",
+      "input_data": [
+        {
+          "field_input_token": "111016",
+          "field_input_name": "Nursery",
+          "schooling_type": "no",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111016",
+          "grade_type_id": "9"
+        },
+        {
+          "field_input_token": "111017",
+          "field_input_name": "KG1/LKG",
+          "schooling_type": "no",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111017",
+          "grade_type_id": "10"
+        },
+        {
+          "field_input_token": "111018",
+          "field_input_name": "KG2/UKG",
+          "schooling_type": "no",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111018",
+          "grade_type_id": "10"
+        },
+        {
+          "field_input_token": "111019",
+          "field_input_name": "Grade 1",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111019",
+          "grade_type_id": "11"
+        },
+        {
+          "field_input_token": "111020",
+          "field_input_name": "Grade 2",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111020",
+          "grade_type_id": "11"
+        },
+        {
+          "field_input_token": "111021",
+          "field_input_name": "Grade 3",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111021",
+          "grade_type_id": "11"
+        },
+        {
+          "field_input_token": "111022",
+          "field_input_name": "Grade 4",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111022",
+          "grade_type_id": "11"
+        },
+        {
+          "field_input_token": "111023",
+          "field_input_name": "Grade 5",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111023",
+          "grade_type_id": "11"
+        },
+        {
+          "field_input_token": "111024",
+          "field_input_name": "Grade 6",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111024",
+          "grade_type_id": "12"
+        },
+        {
+          "field_input_token": "111025",
+          "field_input_name": "Grade 7",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111025",
+          "grade_type_id": "12"
+        },
+        {
+          "field_input_token": "111026",
+          "field_input_name": "Grade 8",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111026",
+          "grade_type_id": "12"
+        },
+        {
+          "field_input_token": "111027",
+          "field_input_name": "Grade 9",
+          "schooling_type": "no",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111027",
+          "grade_type_id": "13"
+        },
+        {
+          "field_input_token": "111028",
+          "field_input_name": "Grade 10",
+          "schooling_type": "no",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111028",
+          "grade_type_id": "13"
+        },
+        {
+          "field_input_token": "111029",
+          "field_input_name": "Grade 11",
+          "schooling_type": "no",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111029",
+          "grade_type_id": "13"
+        },
+        {
+          "field_input_token": "111030",
+          "field_input_name": "Grade 12",
+          "schooling_type": "no",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111030",
+          "grade_type_id": "13"
+        }
+      ]
+    },
+    {
+      "curriculum": "American",
+      "token": "970003",
+      "input_data": [
+        {
+          "field_input_token": "111031",
+          "field_input_name": "Kindergarten",
+          "schooling_type": "no",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111031",
+          "grade_type_id": "6"
+        },
+        {
+          "field_input_token": "111032",
+          "field_input_name": "Grade 1",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111032",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111033",
+          "field_input_name": "Grade 2",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111033",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111034",
+          "field_input_name": "Grade 3",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111034",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111035",
+          "field_input_name": "Grade 4",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111035",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111036",
+          "field_input_name": "Grade 5",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "no",
+          "grade_id": "111036",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111037",
+          "field_input_name": "Grade 6",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111037",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111038",
+          "field_input_name": "Grade 7",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111038",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111039",
+          "field_input_name": "Grade 8",
+          "schooling_type": "yes",
+          "enroll_for": "no",
+          "homeschooled": "yes",
+          "grade_id": "111039",
+          "grade_type_id": "7"
+        },
+        {
+          "field_input_token": "111040",
+          "field_input_name": "Grade 9",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111040",
+          "grade_type_id": "8"
+        },
+        {
+          "field_input_token": "111041",
+          "field_input_name": "Grade 10",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111041",
+          "grade_type_id": "8"
+        },
+        {
+          "field_input_token": "111042",
+          "field_input_name": "Grade 11",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111042",
+          "grade_type_id": "8"
+        },
+        {
+          "field_input_token": "111043",
+          "field_input_name": "Grade 12",
+          "schooling_type": "yes",
+          "enroll_for": "yes",
+          "homeschooled": "yes",
+          "grade_id": "111043",
+          "grade_type_id": "8"
+        }
+      ]
+    }
+  ],
+  "school_type": [
+    {
+      "input_data": [
+        {
+          "grade_type_id": "3",
+          "school_type_id": "1",
+          "comment": "",
+          "field_input_name": "Day School"
+        },
+        {
+          "grade_type_id": "3",
+          "school_type_id": "2",
+          "comment": "Day Boarding School: Additional two hours per day for skill-building, personality development, and extra academic support",
+          "field_input_name": "Day Boarding School"
+        },
+        {
+          "grade_type_id": "4",
+          "school_type_id": "1",
+          "comment": "",
+          "field_input_name": "Day School"
+        },
+        {
+          "grade_type_id": "4",
+          "school_type_id": "2",
+          "comment": "Day Boarding School: Additional two hours per day for skill-building, personality development, and extra academic support",
+          "field_input_name": "Day Boarding School"
+        },
+        {
+          "grade_type_id": "5",
+          "school_type_id": "1",
+          "comment": "",
+          "field_input_name": "Day School"
+        },
+        {
+          "grade_type_id": "5",
+          "school_type_id": "3",
+          "comment": "Integrated program is especially designed for students preparing for entrance exams like NEET & JEE",
+          "field_input_name": "Integrated"
+        },
+        {
+          "grade_type_id": "7",
+          "school_type_id": "1",
+          "comment": "",
+          "field_input_name": "Day School"
+        },
+        {
+          "grade_type_id": "7",
+          "school_type_id": "2",
+          "comment": "Day Boarding School: Additional two hours per day for skill-building, personality development, and extra academic support",
+          "field_input_name": "Day Boarding School"
+        },
+        {
+          "grade_type_id": "8",
+          "school_type_id": "4",
+          "comment": "Note - No live classes are conducted for any of the above selected options.",
+          "field_input_name": "High School Diploma/Dual Diploma"
+        },
+        {
+          "grade_type_id": "11",
+          "school_type_id": "1",
+          "comment": "",
+          "field_input_name": "Day School"
+        },
+        {
+          "grade_type_id": "11",
+          "school_type_id": "2",
+          "comment": "Day Boarding School: Additional two hours per day for skill-building, personality development, and extra academic support",
+          "field_input_name": "Day Boarding School"
+        },
+        {
+          "grade_type_id": "12",
+          "school_type_id": "1",
+          "comment": "",
+          "field_input_name": "Day School"
+        },
+        {
+          "grade_type_id": "12",
+          "school_type_id": "2",
+          "comment": "Day Boarding School: Additional two hours per day for skill-building, personality development, and extra academic support",
+          "field_input_name": "Day Boarding School"
+        }
+      ]
+    }
+  ],
+  "exam_center": [
+    {
+      "grade_id": "111012",
+      "input_data": [
+        {
+          "field_input_name": "Nearest NIOS Examination / Affiliated Center In India"
+        }
+      ]
+    },
+    {
+      "grade_id": "111013",
+      "input_data": [
+        {
+          "field_input_name": "Nearest NIOS Examination / Affiliated Center In India"
+        }
+      ]
+    },
+    {
+      "grade_id": "111014",
+      "input_data": [
+        {
+          "field_input_name": "Nearest NIOS Examination / Affiliated Center In India"
+        }
+      ]
+    },
+    {
+      "grade_id": "111015",
+      "input_data": [
+        {
+          "field_input_name": "Nearest NIOS Examination / Affiliated Center In India"
+        }
+      ]
+    },
+    {
+      "grade_id": "111027",
+      "input_data": [
+        {
+          "field_input_name": "In India"
+        },
+        {
+          "field_input_name": "Outside India"
+        }
+      ]
+    },
+    {
+      "grade_id": "111028",
+      "input_data": [
+        {
+          "field_input_name": "In India"
+        },
+        {
+          "field_input_name": "Outside India"
+        }
+      ]
+    },
+    {
+      "grade_id": "111029",
+      "input_data": [
+        {
+          "field_input_name": "In India"
+        },
+        {
+          "field_input_name": "Outside India"
+        }
+      ]
+    },
+    {
+      "grade_id": "111030",
+      "input_data": [
+        {
+          "field_input_name": "In India"
+        },
+        {
+          "field_input_name": "Outside India"
+        }
+      ]
+    }
+  ],
+  "board_exam": [
+    {
+      "grade_id": "111012",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "NIOS as a Private candidate"
+        }
+      ]
+    },
+    {
+      "grade_id": "111013",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "NIOS as a Private candidate"
+        }
+      ]
+    },
+    {
+      "grade_id": "111014",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "NIOS as a Private candidate"
+        }
+      ]
+    },
+    {
+      "grade_id": "111015",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "NIOS as a Private candidate"
+        }
+      ]
+    },
+    {
+      "grade_id": "111027",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Edexcel Centre"
+        },
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Cambridge Examination "
+        }
+      ]
+    },
+    {
+      "grade_id": "111028",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Edexcel Centre"
+        },
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Cambridge Examination "
+        }
+      ]
+    },
+    {
+      "grade_id": "111029",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Edexcel Centre"
+        },
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Cambridge Examination "
+        }
+      ]
+    },
+    {
+      "grade_id": "111030",
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Edexcel Centre"
+        },
+        {
+          "field_input_token": "",
+          "field_input_name": "Nearest Cambridge Examination "
+        }
+      ]
+    }
+  ],
+  "batch_timings": [
+    {
+      "school_type_id": "0",
+      "grade_id": "111001",
+      "input_data": [
+        {
+          "timing_id": "9",
+          "field_input_name": "09.30 am - 10.30 am",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "10",
+          "field_input_name": "11.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "14",
+          "field_input_name": "1.30 pm - 2.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "15",
+          "field_input_name": "3.30 pm - 4.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111002",
+      "input_data": [
+        {
+          "timing_id": "11",
+          "field_input_name": "09.30 am - 11.30 am",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "12",
+          "field_input_name": "02.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111003",
+      "input_data": [
+        {
+          "timing_id": "11",
+          "field_input_name": "09.30 am - 11.30 am",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "12",
+          "field_input_name": "02.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111004",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111004",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111005",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111005",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111006",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111006",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111007",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111007",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111008",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111008",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111009",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111009",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111010",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111010",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111011",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111011",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111012",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "3",
+      "grade_id": "111012",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111013",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "3",
+      "grade_id": "111013",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111014",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "3",
+      "grade_id": "111014",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111015",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "3",
+      "grade_id": "111015",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111016",
+      "input_data": [
+        {
+          "timing_id": "9",
+          "field_input_name": "09.30 am - 10.30 am",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "10",
+          "field_input_name": "11.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "14",
+          "field_input_name": "1.30 pm - 2.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "15",
+          "field_input_name": "3.30 pm - 4.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111017",
+      "input_data": [
+        {
+          "timing_id": "11",
+          "field_input_name": "09.30 am - 11.30 am",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "12",
+          "field_input_name": "02.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111018",
+      "input_data": [
+        {
+          "timing_id": "11",
+          "field_input_name": "09.30 am - 11.30 am",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "12",
+          "field_input_name": "02.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111019",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111019",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111020",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111020",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111021",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111021",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111022",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111022",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111023",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111023",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111024",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111024",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111025",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111025",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111026",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111026",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111027",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111028",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111029",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111030",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "0",
+      "grade_id": "111031",
+      "input_data": [
+        {
+          "timing_id": "11",
+          "field_input_name": "09.30 am - 11.30 am",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "12",
+          "field_input_name": "02.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111032",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111032",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111033",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111033",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111034",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111034",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111035",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111035",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111036",
+      "input_data": [
+        {
+          "timing_id": "1",
+          "field_input_name": "09.30 am - 12.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "2",
+          "field_input_name": "01.30 pm - 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111036",
+      "input_data": [
+        {
+          "timing_id": "3",
+          "field_input_name": "09.30 am to 12.30 pm and 01.30 pm to 03.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "4",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111037",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111037",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111038",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111038",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "1",
+      "grade_id": "111039",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "2",
+      "grade_id": "111039",
+      "input_data": [
+        {
+          "timing_id": "7",
+          "field_input_name": "09.30 am to 01.30 pm and 02.30 pm to 04.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "8",
+          "field_input_name": "10.30 am to 12.30 pm and 01.30 pm to 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "4",
+      "grade_id": "111040",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "4",
+      "grade_id": "111041",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "4",
+      "grade_id": "111042",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    },
+    {
+      "school_type_id": "4",
+      "grade_id": "111043",
+      "input_data": [
+        {
+          "timing_id": "5",
+          "field_input_name": "09.30 am - 01.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        },
+        {
+          "timing_id": "6",
+          "field_input_name": "01.30 pm - 05.30 pm",
+          "comment": "Note : Indian Standard Time (+5.30 GMT)"
+        }
+      ]
+    }
+  ],
+  "second_language": [
+    {
+      "grades": [
+        "111019",
+        "111020",
+        "111021",
+        "111022",
+        "111023"
+      ],
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_name": "Arabic"
+        },
+        {
+          "field_input_name": "English for Speakers of Other Languages (ESOL)"
+        },
+        {
+          "field_input_name": "French"
+        },
+        {
+          "field_input_name": "Hindi"
+        },
+        {
+          "field_input_name": "Japanese"
+        },
+        {
+          "field_input_name": "Kannada"
+        },
+        {
+          "field_input_name": "Spanish"
+        },
+        {
+          "field_input_name": "Tamil"
+        },
+        {
+          "field_input_name": "Telugu"
+        },
+        {
+          "field_input_name": "Urdu"
+        }
+      ]
+    },
+    {
+      "grades": [
+        "111024",
+        "111025",
+        "111026"
+      ],
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_name": "Arabic"
+        },
+        {
+          "field_input_name": "Bengali"
+        },
+        {
+          "field_input_name": "English for Speakers of Other Languages (ESOL)"
+        },
+        {
+          "field_input_name": "French"
+        },
+        {
+          "field_input_name": "Hindi"
+        },
+        {
+          "field_input_name": "Japanese"
+        },
+        {
+          "field_input_name": "Kannada"
+        },
+        {
+          "field_input_name": "Malayalam"
+        },
+        {
+          "field_input_name": "Marathi"
+        },
+        {
+          "field_input_name": "Punjabi"
+        },
+        {
+          "field_input_name": "Sanskrit"
+        },
+        {
+          "field_input_name": "Spanish"
+        },
+        {
+          "field_input_name": "Tamil"
+        },
+        {
+          "field_input_name": "Telugu"
+        },
+        {
+          "field_input_name": "Urdu"
+        }
+      ]
+    },
+    {
+      "grades": [
+        "111004",
+        "111005",
+        "111006",
+        "111007",
+        "111008"
+      ],
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_name": "Arabic"
+        },
+        {
+          "field_input_name": "Bengali"
+        },
+        {
+          "field_input_name": "English for Speakers of Other Languages (ESOL)"
+        },
+        {
+          "field_input_name": "French"
+        },
+        {
+          "field_input_name": "Gujarati"
+        },
+        {
+          "field_input_name": "Hindi"
+        },
+        {
+          "field_input_name": "Japanese"
+        },
+        {
+          "field_input_name": "Kannada"
+        },
+        {
+          "field_input_name": "Malayalam"
+        },
+        {
+          "field_input_name": "Marathi"
+        },
+        {
+          "field_input_name": "Punjabi"
+        },
+        {
+          "field_input_name": "Sanskrit"
+        },
+        {
+          "field_input_name": "Spanish"
+        },
+        {
+          "field_input_name": "Tamil"
+        },
+        {
+          "field_input_name": "Telugu"
+        },
+        {
+          "field_input_name": "Urdu"
+        }
+      ]
+    },
+    {
+      "grades": [
+        "111009",
+        "111010",
+        "111011"
+      ],
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_name": "Arabic"
+        },
+        {
+          "field_input_name": "Bengali"
+        },
+        {
+          "field_input_name": "English for Speakers of Other Languages (ESOL)"
+        },
+        {
+          "field_input_name": "French"
+        },
+        {
+          "field_input_name": "Gujarati"
+        },
+        {
+          "field_input_name": "Hindi"
+        },
+        {
+          "field_input_name": "Japanese"
+        },
+        {
+          "field_input_name": "Kannada"
+        },
+        {
+          "field_input_name": "Malayalam"
+        },
+        {
+          "field_input_name": "Marathi"
+        },
+        {
+          "field_input_name": "Punjabi"
+        },
+        {
+          "field_input_name": "Sanskrit"
+        },
+        {
+          "field_input_name": "Spanish"
+        },
+        {
+          "field_input_name": "Tamil"
+        },
+        {
+          "field_input_name": "Telugu"
+        },
+        {
+          "field_input_name": "Urdu"
+        }
+      ]
+    }
+  ],
+  "third_language": [
+    {
+      "grades": [
+        "111019",
+        "111020",
+        "111021",
+        "111022",
+        "111023"
+      ],
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_name": "Arabic"
+        },
+        {
+          "field_input_name": "English for Speakers of Other Languages (ESOL)"
+        },
+        {
+          "field_input_name": "French"
+        },
+        {
+          "field_input_name": "Hindi"
+        },
+        {
+          "field_input_name": "Japanese"
+        },
+        {
+          "field_input_name": "Kannada"
+        },
+        {
+          "field_input_name": "Spanish"
+        },
+        {
+          "field_input_name": "Tamil"
+        },
+        {
+          "field_input_name": "Telugu"
+        },
+        {
+          "field_input_name": "Urdu"
+        },
+        {
+          "field_input_name": "Bengali"
+        }
+      ]
+    },
+    {
+      "grades": [
+        "111004",
+        "111005",
+        "111006",
+        "111007",
+        "111008"
+      ],
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_name": "Arabic"
+        },
+        {
+          "field_input_name": "Bengali"
+        },
+        {
+          "field_input_name": "English for Speakers of Other Languages (ESOL)"
+        },
+        {
+          "field_input_name": "French"
+        },
+        {
+          "field_input_name": "Gujarati"
+        },
+        {
+          "field_input_name": "Hindi"
+        },
+        {
+          "field_input_name": "Japanese"
+        },
+        {
+          "field_input_name": "Kannada"
+        },
+        {
+          "field_input_name": "Malayalam"
+        },
+        {
+          "field_input_name": "Marathi"
+        },
+        {
+          "field_input_name": "Punjabi"
+        },
+        {
+          "field_input_name": "Sanskrit"
+        },
+        {
+          "field_input_name": "Spanish"
+        },
+        {
+          "field_input_name": "Tamil"
+        },
+        {
+          "field_input_name": "Telugu"
+        },
+        {
+          "field_input_name": "Urdu"
+        }
+      ]
+    }
+  ],
+  "additional_language": [
+    {
+      "grades": [
+        "111032",
+        "111033",
+        "111034",
+        "111035",
+        "111036"
+      ],
+      "comment": "",
+      "input_data": [
+        {
+          "field_input_name": "Arabic"
+        },
+        {
+          "field_input_name": "English for Speakers of Other Languages (ESOL)"
+        },
+        {
+          "field_input_name": "French"
+        },
+        {
+          "field_input_name": "Hindi"
+        },
+        {
+          "field_input_name": "Japanese"
+        },
+        {
+          "field_input_name": "Kannada"
+        },
+        {
+          "field_input_name": "Spanish"
+        },
+        {
+          "field_input_name": "Tamil"
+        },
+        {
+          "field_input_name": "Telugu"
+        },
+        {
+          "field_input_name": "Urdu"
+        },
+        {
+          "field_input_name": "Other"
+        }
+      ]
+    }
+  ]
+}
